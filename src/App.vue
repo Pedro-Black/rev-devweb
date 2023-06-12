@@ -165,7 +165,7 @@ ul {
 button {
   margin: 3px;
   box-shadow:  -1px 1px 5px rgba(0, 0, 0, 0.733);
-  background-color: rgba(107, 30, 30, 0.534);
+  background-color: rgba(0, 0, 0, 0.534);
   border: 2px rgb(255, 0, 0);
 }
 
